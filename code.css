@@ -1,0 +1,6 @@
+img[name="img1"] {
+  width: 700px; /* Atur lebar gambar sesuai kebutuhan */
+  height: auto; /* Pertahankan rasio aspek gambar */
+  display: block; /* Atur gambar agar berada di tengah */
+  margin: 0 auto;
+}
